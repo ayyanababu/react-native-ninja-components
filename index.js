@@ -1,7 +1,7 @@
 // main index.js
 
 import { requireNativeComponent } from "react-native";
-import NCButton from "./src/components/Inputs/Button";
+import NCButton from "./src/Button";
 
 const NCNinjaComponents = requireNativeComponent("NCNinjaComponents", null);
 
